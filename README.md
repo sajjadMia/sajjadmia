@@ -10,13 +10,7 @@
 
 
 # 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjadmia)](https://github.com/sajjadmia/github-readme-stats)
-
-
-
-
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjadmia&show_icons=true&theme=tokyonight)
 
 
 
